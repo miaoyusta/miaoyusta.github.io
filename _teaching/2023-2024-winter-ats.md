@@ -6,7 +6,7 @@ permalink: /teaching/2023-2024-winter-ats
 venue: "LUH, Winter"
 startdate: 2023
 enddate: 2024
-date: 2023
+date: 2023-10-01
 location: "Hannover, DE"
 ---
 
