@@ -4,12 +4,11 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/2023-2024-winter-ats
 venue: "LUH"
-startdate: 2023-10
-enddate: 2024-02
-location: "Hannover, De"
+date: 2023-10-01
+location: "Hannover, DE"
 ---
 
-## Inhalt:
+##Content:
 - Introduction and overview
 - Multivariate Time Series Models
 - Vector Autoregressive Models (VARs) and structural VARs
@@ -19,4 +18,4 @@ location: "Hannover, De"
 - Threshold Autoregressive Models (TAR)
 - Extension of TAR Models
 
-[Link to the course material.](https://www.statistik.uni-hannover.de/de/lehre/lehrveranstaltungen#c26829)
+[Link to the course.](https://www.statistik.uni-hannover.de/de/lehre/lehrveranstaltungen#c26829)
