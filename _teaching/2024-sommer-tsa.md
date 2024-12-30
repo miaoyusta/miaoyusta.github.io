@@ -5,6 +5,7 @@ type: "Lecture"
 permalink: /teaching/2024-sommer-tsa.md
 venue: "LUH,Sommer"
 startdate: 2024
+enddate: 2024
 location: "Hannover, DE"
 ---
 
