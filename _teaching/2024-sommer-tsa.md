@@ -6,6 +6,7 @@ permalink: /teaching/2024-sommer-tsa.md
 venue: "LUH,Sommer"
 startdate: 2024
 enddate: 2024
+end: 2024-04-01
 location: "Hannover, DE"
 ---
 
