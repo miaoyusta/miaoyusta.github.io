@@ -16,7 +16,7 @@ location: "Hannover, DE"
 - Spectral Analysis
 - Long Memory Time Series.
 
-## References
+## References:
 - Hamilton, J. D. (1994): Time Series Analysis, Princeton.
 - Schlittgen, R., Stritberg, H. J. (2003): Zeitreihenanalyse, Oldenbourg.
 
