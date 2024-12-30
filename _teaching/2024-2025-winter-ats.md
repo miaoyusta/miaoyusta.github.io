@@ -4,8 +4,8 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-2025-winter-ats
 venue: "LUH, Winter"
-startdate: 2023-10-01
-enddate: 2024-02-01
+startdate: 2024
+enddate: 2025
 date: 2024-10-01
 location: "Hannover, DE"
 ---
