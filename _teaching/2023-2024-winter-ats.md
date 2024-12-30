@@ -8,7 +8,7 @@ date: 2023-10-01
 location: "Hannover, DE"
 ---
 
-##Content:
+## Content:
 - Introduction and overview
 - Multivariate Time Series Models
 - Vector Autoregressive Models (VARs) and structural VARs
