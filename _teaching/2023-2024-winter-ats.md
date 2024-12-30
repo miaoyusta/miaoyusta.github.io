@@ -18,4 +18,9 @@ location: "Hannover, DE"
 - Threshold Autoregressive Models (TAR)
 - Extension of TAR Models
 
+## References:	
+- Enders, W. (2014). Applied Econometric Time Series, Wiley.
+- Lütkepohl, H. (2005) New Introduction to Multiple Time Series Analysis, Springer.
+- Lütkepohl, H. (2004) Applied Time Series Econometrics, Cambridge University Press.
+
 [Link to the course.](https://www.statistik.uni-hannover.de/de/lehre/lehrveranstaltungen#c26829)
