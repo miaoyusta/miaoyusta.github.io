@@ -2,7 +2,7 @@
 title: "Time Series Analysis (379016)"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2024-sommer-tsa.md
+permalink: /teaching/2024-sommer-tsa
 venue: "LUH,Sommer"
 date: 2024-02-01
 location: "Hannover, DE"
