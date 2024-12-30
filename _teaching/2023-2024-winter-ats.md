@@ -3,8 +3,10 @@ title: "Advanced Time Series Analysis (379029)"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2023-2024-winter-ats
-venue: "LUH"
-date: 2023-10-01
+venue: "LUH, Winter"
+startdate: 2023
+enddate: 2024
+date: 2023
 location: "Hannover, DE"
 ---
 
