@@ -4,7 +4,7 @@ collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-sommer-tsa.md
 venue: "LUH,Sommer"
-date: 2024-04-01
+date: 2024-02-01
 location: "Hannover, DE"
 ---
 
@@ -19,5 +19,3 @@ location: "Hannover, DE"
 ## References:
 - Hamilton, J. D. (1994): Time Series Analysis, Princeton.
 - Schlittgen, R., Stritberg, H. J. (2003): Zeitreihenanalyse, Oldenbourg.
-
-[Link to the course.](https://www.statistik.uni-hannover.de/de/lehre/lehrveranstaltungen)
