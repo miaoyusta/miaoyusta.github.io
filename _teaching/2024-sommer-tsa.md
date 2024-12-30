@@ -3,8 +3,8 @@ title: "Time Series Analysis (379016)"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2024-sommer-tsa.md
-venue: "LUH"
-date: 2024-04-01
+venue: "LUH,Sommer"
+startdate: 2024
 location: "Hannover, DE"
 ---
 
