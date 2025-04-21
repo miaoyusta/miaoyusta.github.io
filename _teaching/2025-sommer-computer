@@ -1,0 +1,24 @@
+---
+title: "Computerintensive Statistics (373015)"
+collection: teaching
+type: "Lecture"
+permalink: /teaching/2025-sommer-computer
+venue: "LUH, Winter"
+startdate: 2025
+enddate: 2025
+date: 2025-04-01
+location: "Hannover, DE"
+---
+
+## Content:
+- Metropolis Algorithm
+- Adaptive Metropolis Algorithm
+- Delayed Rejection Adaptive Metropolis
+- Metropolis-Hastings Algorithm
+- Gibbs Sampling
+
+## References:	
+- Albert, Jim (2007): Bayesian Computation with R, Springer
+- J.S Urban Hjorth(1994) Computer Intensive Statistical Methods
+
+[Link to the course.](https://www.statistik.uni-hannover.de/de/lehre/lehrveranstaltungen#c26833)
