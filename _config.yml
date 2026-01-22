@@ -9,50 +9,50 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "SHU LI"
+title                    : "Miao YU"
 title_separator          : "-"
-name                     : &name "Shu LI"
-description              : &description "Ph.D. candidate in CS at INRIA"
-url                      : https://shuligraph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Miao YU"
+description              : &description "Ph.D. candidate at LUH"
+url                      : https://miaoyusta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shuligraph.github.io"
+repository               : "miaoyusta.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "han2wine.png"
-  name             : "Shu LI"
+  avatar           : "profile.jpg"
+  name             : "Miao YU"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in CS"
-  location         : "Inria, Paris, France"
+  bio              : "PhD in STA"
+  location         : "LUH, Hannover, Germany"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "shu.li(at)inria.fr"  
+  email            : "miao.yu(at)statistik.uni-hannover.de"  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=c8lT_K8AAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=7CcbxfEAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-4075-9885"
-  semantic         : "https://www.semanticscholar.org/author/Shu-Li/2236639055"
+  orcid            : "https://orcid.org/0009-0004-4088-7045"
+  semantic         : #"https://www.semanticscholar.org/author/Shu-Li/2236639055"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Shu-Li-58"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57931251200"
-  hal              : "https://cv.hal.science/shu-li"
-  clarivate        : "https://www.webofscience.com/wos/author/record/ADG-8336-2022"
+  researchgate     : #"https://www.researchgate.net/profile/Shu-Li-58"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=57194045408"
+  hal              : #"https://cv.hal.science/shu-li"
+  clarivate        : #"https://www.webofscience.com/wos/author/record/ADG-8336-2022"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
-  codepen          : "@shuligraph" 
+  codepen          : #"@shuligraph" 
   dribbble         : # Username
-  github           : "shuligraph"
+  github           : "miaoyusta"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,15 +61,15 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "shuligraph"
-  mastodon         : "https://mathstodon.xyz/@shuli"
+  linkedin         : "miao-yu-30357a397"
+  mastodon         : #"https://mathstodon.xyz/@shuli"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@shuligraph" 
+  twitter          : #"@shuligraph" 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
