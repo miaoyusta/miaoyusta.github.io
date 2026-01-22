@@ -8,59 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<p>
-  <img
-    src="https://flagcdn.com/16x12/gb.png"
-    srcset="https://flagcdn.com/32x24/gb.png 2x, https://flagcdn.com/48x36/gb.png 3x"
-    width="16" height="12" alt="英国"> Hello! 
-  <img
-    src="https://flagcdn.com/16x12/fr.png"
-    srcset="https://flagcdn.com/32x24/fr.png 2x, https://flagcdn.com/48x36/fr.png 3x"
-    width="16" height="12" alt="法国"> Bonjour!
-  <img
-    src="https://flagcdn.com/16x12/cn.png"
-    srcset="https://flagcdn.com/32x24/cn.png 2x, https://flagcdn.com/48x36/cn.png 3x"
-    width="16" height="12" alt="中华人民共和国"> 你好！
-  <img
-    src="https://flagcdn.com/16x12/ru.png"
-    srcset="https://flagcdn.com/32x24/ru.png 2x, https://flagcdn.com/48x36/ru.png 3x"
-    width="16" height="12" alt="俄罗斯"> Привет!
-  <img
-    src="https://flagcdn.com/16x12/sa.png"
-    srcset="https://flagcdn.com/32x24/sa.png 2x, https://flagcdn.com/48x36/sa.png 3x"
-    width="16" height="12" alt="沙特阿拉伯"> مرحبا!
-</p>
+I am a PhD student in Economics [Institute of Statistics](https://www.statistik.uni-hannover.de/de/institut/team), [Leibniz Universität Hannover](https://www.uni-hannover.de/), Germany. My research focuses on functional time series analysis and its applications to energy and electricity market data, with particular interest in seasonal and trend modeling, functional data methods, and statistical learning for complex time-dependent data.
 
+I received my Master’s degree in Applied Statistics and my Bachelor’s degree in Mathematics and Applied Mathematics from Shandong University of Technology. My previous work concentrated on multi-view clustering algorithms and online learning methods, and has been published in journals such as Applied Energy, Information Sciences, and Neurocomputing. I am also a co-developer of the R package ORKM (available on CRAN), which implements online regularized K-means clustering for multi-view data.
 
-### About me
-I am a Ph.D. candidate in the [ARGO](https://www.di.ens.fr/argo/) team at [INRIA](https://www.inria.fr) Paris and the [Département d'Informatique de l'ENS (DI ENS, PSL Université)](https://www.di.ens.fr/), advised by [Dr. Ana Bušić](https://www.di.ens.fr/~busic/) and [Prof. Jean-Michel Fourneau](https://www.researchgate.net/profile/Jean-Fourneau). My research focuses on Learning in Dynamic Matching Learning Models, a topic at the intersection of algorithms, optimization, and learning theory.
+In addition to my research, I am involved in teaching at Leibniz Universität Hannover, contributing to courses in Time Series Analysis, Advanced Time Series Analysis, and Computer-Intensive Statistics.
 
-Previously, I earned an M.Sc. in Graph Theory, where I explored advanced topics such as the [Matrix-Tree Theorem](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDMD&filename=1023784641.nh), [family graphs with small rank](http://ccj.pku.edu.cn/article/info?aid=356769604), and the [vector Laplacian on graphs](https://arxiv.org/pdf/2312.05754.pdf). My work involved collaborations with leading researchers, including [Prof. Jianfeng Wang](https://www.researchgate.net/profile/Jianfeng-Wang-15), Dr. Ning Bian, and others.
-
-I hold a B.Sc. in Applied Mathematics, where I built a strong foundation in Linear Algebra, Number Theory, and Modern Algebra—disciplines that continue to shape my research.
-
-Beyond my thesis, I am passionate about bridging theoretical insights with practical applications in computer science and mathematics. You can learn more about my academic journey in my [CV](https://shuligraph.github.io/cv/).
-
-### Research Interests
-
-1. **Algebra → Linear Algebra → Matrix Theory**  
-   I am interested in the structural properties of matrices and their roles in linear systems and algebraic computations.
-
-2. **Combinatorics / Discrete Mathematics → Graph Theory → Spectral Graph Theory**  
-   I study the spectral properties of graphs, particularly how eigenvalues relate to graph structure, using algebraic techniques in discrete settings.
-
-3. **Game Theory & Mechanism Design → Random Matching Models → Learning Behavior and the Performance Paradox**  
-   I explore random matching mechanisms under incomplete information, focusing on how individual learning dynamics can lead to systemic performance paradoxes.
-
-
-
-### Society
-* [The International Linear Algebra Society(ILAS)](https://ilasic.org/), 2025-2026
-* [Société Mathématique de France(SMF)](https://smf.emath.fr/), #19419, 2024-2026
-* [Société informatique de France(SiF)](https://archive.societe-informatique-de-france.fr/), #1202402194, 2024-2026
-* [Société de Mathématiques Appliquées et Industrielles (SMAI)](http://smai.emath.fr/), #11476, 2024-2025
-
-### Editor, Reviwer
-* zbMATH Reviwer li.shu #21932, 2025-
-* Mathematical Reviews #187345, 2025-
+Please find more detail in my [CV](https://miaoyusta.github.io/cv/).
+ 
  
