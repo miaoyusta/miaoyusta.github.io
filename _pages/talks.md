@@ -12,9 +12,3 @@ author_profile: true
     {% endif %}
   {% endfor %}
 
-<h2>Seminars</h2>
-{% for post in site.talks reversed %}
-  {% if post.type == 'Seminar' %} 
-    {% include archive-single-talks.html %}
-  {% endif %}
-{% endfor %}
