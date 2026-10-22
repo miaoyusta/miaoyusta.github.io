@@ -28,8 +28,7 @@ author_profile: true
           {{ fields[3] | strip | escape }} ·
           {{ fields[4] | strip | escape }} ·
           {{ fields[5] | strip | escape }} ·
-          {% if grade != '' %}
-            <br>Grade: {{ grade | escape }}
+          {% if grade != '' %} Grade: {{ grade | escape }}
           {% endif %}
         </li>
       {% endif %}
