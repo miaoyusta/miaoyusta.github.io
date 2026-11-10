@@ -33,14 +33,12 @@ author_profile: true
 
           <li>
             <strong>{{ fields[1] | strip | escape }}</strong>
-            ({{ fields[0] | strip | escape }})<br>
-            <em>{{ fields[2] | strip | escape }}</em><br>
-            {{ fields[3] | strip | escape }} ·
-            {{ fields[4] | strip | escape }} ·
-            {{ fields[5] | strip | escape }}
+            ({{ fields[0] | strip | escape }})
             {% if grade != '' %}
               · Grade: {{ grade | escape }}
             {% endif %}
+            <br>
+            <em>{{ fields[2] | strip | escape }}</em>
           </li>
         {% endif %}
       {% endfor %}
