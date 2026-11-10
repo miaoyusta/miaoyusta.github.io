@@ -40,7 +40,9 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>,
-            {% if post.startdate and post.enddate %}
+            {% if post.years %}
+              {{ post.years | join: ", " }}
+            {% elsif post.startdate and post.enddate %}
               {{ post.startdate }}-{{ post.enddate }}
             {% elsif post.startdate %}
               {{ post.startdate }}
