@@ -7,7 +7,7 @@ author_profile: true
 
 <p>
   I have had the pleasure of supervising the work of
-  amazing students and junior researchers.
+  amazing students.
 </p>
 
 {% assign levels = 'Master,Bachelor' | split: ',' %}
