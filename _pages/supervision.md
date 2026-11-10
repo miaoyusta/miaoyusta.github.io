@@ -29,7 +29,7 @@ author_profile: true
         {% assign line = row | strip %}
         {% if line != '' %}
           {% assign fields = line | split: ';' %}
-          {% assign grade = fields[6] | default: '' | strip %}
+          {% assign grade = fields[3] | default: '' | strip %}
 
           <li>
             <strong>{{ fields[1] | strip | escape }}</strong>
