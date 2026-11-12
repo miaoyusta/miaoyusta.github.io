@@ -1,4 +1,9 @@
-year;name;title;grade
-2027 - 2029;name;title;1.0(DE)
-2025 - 2026;name;title;4.0(US)
-2025 - 2026;name;title;
+year;name;title
+2026;Melisa Sirin Kurban;Functional Data Analysis with Environmental Data
+2026;Céline Kaebler;Structural Change Tests in Tail Behaviour for Environmental Data
+2026;Luis Tilio;A comprehensive statistical analysis of the correlation structure among different wind turbines
+2026;Shumin Ding;Detecting Bubbles in Global Currency Market
+2025;Ziyu Zhang;A Case Study of Wind Farm Energy Generation
+2025;Zhuxuan Gong;Time Series Clustering
+2025;Jiamin Liu;Functional Data Analysis for Time Series
+2024;Luisa Marlene Hansen;Bootstrapping for Time Series
