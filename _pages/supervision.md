@@ -10,10 +10,10 @@ author_profile: true
   amazing students.
 </p>
 
-{% assign levels = 'Master,Bachelor' | split: ',' %}
+{% assign levels = 'Master Thesis,Bachelor' | split: ',' %}
 
 {% for level in levels %}
-  {% if level == 'Master' %}
+  {% if level == 'Master Thesis' %}
     {% capture students_text %}{% include_relative master.cvs %}{% endcapture %}
   {% else %}
     {% capture students_text %}{% include_relative bachelor.cvs %}{% endcapture %}
