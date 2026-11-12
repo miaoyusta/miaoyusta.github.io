@@ -6,11 +6,10 @@ author_profile: true
 ---
 
 <p>
-  I have had the pleasure of supervising the work of
-  amazing students.
+I have had the pleasure of supervising some truly exceptional students.
 </p>
 
-{% assign levels = 'Master Thesis,Bachelor' | split: ',' %}
+{% assign levels = 'Master Thesis,Bachelor Thesis' | split: ',' %}
 
 {% for level in levels %}
   {% if level == 'Master Thesis' %}
